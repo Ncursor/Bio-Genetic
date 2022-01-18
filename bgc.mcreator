@@ -1,0 +1,41 @@
+{
+  "mod_elements": [
+    {
+      "name": "ReinforcedIron",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_iron"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.bgc.reinforced_iron": "Reinforced Iron"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "bgc",
+    "modName": "BioGenetic",
+    "version": "1.0.0",
+    "author": "Hoa Chi Kien, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "newt.biogenetic",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}
